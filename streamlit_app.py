@@ -3,7 +3,6 @@ from hugchat import hugchat
 from hugchat.login import Login
 
 # App title
-
 st.title('Simple Chatbot for Trần Lộc trùm AI')
 
 # Hugging Face Credentials
